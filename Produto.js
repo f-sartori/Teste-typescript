@@ -1,6 +1,6 @@
 "use strict";
-exports.__esModule = true;
-var Produto = /** @class */ (function () {
+Object.defineProperty(exports, "__esModule", { value: true });
+var Produto = (function () {
     function Produto() {
     }
     Object.defineProperty(Produto.prototype, "Id", {

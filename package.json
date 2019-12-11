@@ -1,0 +1,23 @@
+{
+  "name": "teste-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Carro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-sartori/Teste-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f-sartori/Teste-typescript/issues"
+  },
+  "homepage": "https://github.com/f-sartori/Teste-typescript#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
